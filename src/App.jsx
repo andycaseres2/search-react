@@ -39,7 +39,7 @@ function App() {
       <Stack pt="50px" pl="100px" pr="100px">
         <Box>
           <Text fontSize="30px" fontWeight="bold">
-            Search React + ChakraUI
+            Search React
           </Text>
         </Box>
         <FormControl pt="20px" pb="20px">
